@@ -323,7 +323,7 @@ public class clienti extends javax.swing.JFrame {
         try{
         String host ="jdbc:mysql://localhost:3306/MAGAZIN_CD";
         String uName="RAZVAN";
-        String Pass="SEPTIMUS97";
+        String Pass="dogshit";
          con = DriverManager.getConnection( host, uName, Pass );
          stmt=con.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_UPDATABLE);
          String sql="SELECT * FROM CLIENTI";
