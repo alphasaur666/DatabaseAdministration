@@ -199,7 +199,7 @@ public class MAGAZIN1 extends javax.swing.JFrame {
          try {
         String host ="jdbc:mysql://localhost:3306/MAGAZIN_CD";
         String uName="RAZVAN";
-        String Pass="SEPTIMUS97";
+        String Pass="dogshit";
         Connection con = DriverManager.getConnection( host, uName, Pass );
         }
         catch ( SQLException err ) {
