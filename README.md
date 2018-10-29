@@ -1,2 +1,2 @@
 # DatabaseAdministration
-A simple app made in Java fo database administration( view, add, delete) maed using JavaSwing and SQLConector
+A simple app made in Java for database administration( view, add, delete) made using JavaSwing and SQLConectorJAR
