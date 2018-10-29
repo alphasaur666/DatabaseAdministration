@@ -186,7 +186,7 @@ Connection con;
         try{
         String host ="jdbc:mysql://localhost:3306/MAGAZIN_CD";
         String uName="RAZVAN";
-        String Pass="SEPTIMUS97";
+        String Pass="dogshit";
  
    
            try (Connection con = DriverManager.getConnection(host, uName, Pass)) {
